@@ -1,0 +1,2 @@
+this is a log file
+this will not add in git 
